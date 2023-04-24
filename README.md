@@ -1,1 +1,10 @@
-# CS-330
+## CS-330
+
+### How do I approach designing software?
+I like to approach designing software with a step-by-step approach. When building a program, I try to focus on one function or model at a time and keep building and adding additional ones until the project is complete. This was present while working on the project for this course as well. Since each module we added a new feature or aspect to the 3D world, I was able to stick to this type of approach throughout development. Future development projects could benefit from this design approach to help not force me to feel overwhelmed when taking on a bigger project.
+
+### How do I approach developing programs?
+When approaching a development problem, I like to break the problem down into smaller tasks. I look at the big picture of what I am trying to solve and figure out the many different parts of it. Then I tackle each of those to solve the bigger problem in the end. This was accomplished in the same way as how the project was designed in its step-by-step approach. Since we added and tackled different tough features and problems with each week’s new problems, I was able to solve any problem I had with my go-to method. The iteration factor was very much present as well during my development. I would constantly make small changes and run the code to see what happened, only to do that over and over again.
+
+### How can computer science help me in reaching my goals?
+The concept behind solving problems and thinking logically and critically from a computer science education has benefits in all aspects of life. These skills are a foundation when working to achieve goals and solve problems. When it comes to computational graphics and visualizations, I am having trouble figuring out how the knowledge and skills learned can be applied to a future educational or professional pathway outside of a graphics and visualizations development career. It came off to me as something specific to this type of development. Most of the skills I think that can be translated elsewhere are learned from development in general and solving coding problems.
